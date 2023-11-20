@@ -1,3 +1,6 @@
 // Bora Aprender
 
-console.log ("Olá Boa Tarde")
+let nome = "Alessandro"
+
+console.log (nome)
+
